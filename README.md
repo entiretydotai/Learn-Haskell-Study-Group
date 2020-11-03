@@ -35,6 +35,7 @@ Refer [Study Plan](studyplan.md) for the study plan of this study group.
 - [Haskell on Reddit](https://www.reddit.com/r/haskell/)
 - [How I Start: Haskell](http://howistart.org/posts/haskell/1) - How to set-up a new Haskell project
 - [Monday Morning Haskell](https://mmhaskell.com/) - A good blog to follow for latest stuff
+- [Learn4Haskell](https://github.com/kowainik/learn4haskell) - Learn Haskell basics in 4 pull requests 
 - `#haskell` and `#haskell-beginners` - IRC channels on [freenode](https://freenode.net/)
 
 ### A Big shout out to [Steven Syrek](https://github.com/sjsyrek) for his repository [Haskell study startup](https://github.com/sjsyrek/haskell-study-startup) from where most of the content of this repository is inspired from.
