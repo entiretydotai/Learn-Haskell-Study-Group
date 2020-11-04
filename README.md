@@ -8,15 +8,6 @@
 
 All the books, resources and study plan for learning Haskell.
 
-
-## For all the updates and keeping up with the study group [Join the Slack Group](https://join.slack.com/t/entiretyai/shared_invite/zt-iu8rnyyq-~a8cCdcMhKZ7yqzl4gLpVQ)
-
-## Goals
-
-1. Learn Haskell in Detail.
-2. Learn Data Structure in Haskell Way
-3. Implement Data Structure and Algorithms in Haskell and in your primary programming Language.
-
 ## Guidelines
 
 Refer [GuideLines](guidelines.md) for the guidelines to make this study group a successful one.
