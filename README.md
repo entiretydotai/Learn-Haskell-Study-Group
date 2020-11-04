@@ -1,10 +1,15 @@
 # Learn Haskell Virtual Study Group
 
+## [To Know More about Entirety.ai](https://entiretydotai.github.io/blogs/about/)
+
 ![](images/haskell-logo.png)
 
 
 
 All the books, resources and study plan for learning Haskell.
+
+
+## For all the updates and keeping up with the study group [Join the Slack Group](https://join.slack.com/t/entiretyai/shared_invite/zt-iu8rnyyq-~a8cCdcMhKZ7yqzl4gLpVQ)
 
 ## Goals
 
