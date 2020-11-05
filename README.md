@@ -53,7 +53,7 @@ The [Recurse Center](https://www.recurse.com) has a useful set of [social rules]
 
 You are encouraged to hew as closely to this regular, weekly schedule as you are able so as to maintain your momentum. That said, if life gets in the way, so be it: but do your best to catch up, and avoid skipping any material as each chapter builds on the last. We can always discuss exercises on Slack, but please refrain from posting your solutions publicly (including on GitHub).
 
-### Signing up
+## Signing up
 
 All meetings will be announced and Slack. You must RSVP to attend each meeting separately, as space is at a premium. If you cannot attend a meeting because it is full, please continue to work on your own, and come to a future meeting. Do not RSVP if you cannot attend. No-shows will not be allowed to attend subsequent meetings.
 
@@ -73,7 +73,7 @@ If the study group is a success next Goal to achieve.
 1. Learn Data Structure in Haskell Way
 2. Implement Data Structure and Algorithms in Haskell and in your primary programming Language.
 
-## Format
+## Plan
 
 We will work through [*Haskell Programming from First Principles*](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki.
 
