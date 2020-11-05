@@ -47,7 +47,7 @@ The [Recurse Center](https://www.recurse.com) has a useful set of [social rules]
 
 [Go through this if you want to know What a Haskell Study Group is not.](https://medium.com/@sjsyrek/what-a-haskell-study-group-is-not-470f4aeb9673) 
 
-## Format.
+## Format
 
 **This is not a class**, however, so do not come expecting a lecture. Instead, you will have the opportunity to review your work and to discuss concepts and exercises that gave you difficulty when working through the book on your own.
 
@@ -73,7 +73,7 @@ If the study group is a success next Goal to achieve.
 1. Learn Data Structure in Haskell Way
 2. Implement Data Structure and Algorithms in Haskell and in your primary programming Language.
 
-## Plan
+## Schedule
 
 We will work through [*Haskell Programming from First Principles*](http://haskellbook.com/) (aka the "Haskell Book") by Christopher Allen and Julie Moronuki.
 
